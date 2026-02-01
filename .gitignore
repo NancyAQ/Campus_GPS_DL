@@ -1,0 +1,4 @@
+CheckPoints/
+outputs/
+*.pt
+*.pth

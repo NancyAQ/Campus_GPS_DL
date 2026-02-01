@@ -1,0 +1,10 @@
+torch==2.5.1
+torchvision==0.20.1
+pandas
+tqdm
+Pillow
+pillow-heif
+opencv-python
+numpy
+matplotlib
+more-itertools
