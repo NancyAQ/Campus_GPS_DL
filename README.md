@@ -16,7 +16,8 @@ dataset/
 │   └── test.txt
 └── gt.csv
 st the splits files have the names of the images from the images folder.
-
+## Make sure you have a CheckPoints folder in the root of the project to save the check points in, you can download our swin checkpoint from here
+(https://drive.google.com/drive/folders/1Z1qthscxODZeG0w2fMDuvKz-0UiU1k8e?usp=drive_link)
 ## 1. Environment Setup
 
 Create and activate a conda environment before running any scripts:
